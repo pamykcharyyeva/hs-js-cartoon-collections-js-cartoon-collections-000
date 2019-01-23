@@ -23,9 +23,6 @@ function longPlaneteerCalls(words) {
   return false
 }
 
-var words = ["wind", "fire"]
-shortWords=(words)
-
 function findTheCheese (foods) {
   var cheese = ["camembert","gouda","cheddar"];
   for(var i=0;i<foods.length;i++){
